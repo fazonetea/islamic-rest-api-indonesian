@@ -13,7 +13,7 @@ Islamic API adalah sebuah API yg menampilkan data2 islami, seperti : Doa2 Tahlil
 | Description | Endpoint | 
 |------------ | ---------|
 | Doa Doa Tahlil | https://islamic-api-zhirrr.vercel.app/api/tahlil | 
-| Wirid | https://islamic-api-zhirrr.vercel.app/api/wirid | 
+
 | Asmaul Husna | https://islamic-api-zhirrr.vercel.app/api/asmaulhusna | 
 | Doa Doa Harian | https://islamic-api-zhirrr.vercel.app/api/doaharian | 
 | Ayat Kursi | https://islamic-api-zhirrr.vercel.app/api/ayatkursi | 
