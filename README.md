@@ -28,7 +28,7 @@ Jika Anda ingin menambahkan proyek ini di komputer Anda sendiri, Anda dapat meng
 
 1. Clone this repository
 ```
-git clone https://github.com/Zhirrr/islamic-rest-api-official.git
+git clone https://github.com/Zhirrr/islamic-rest-api-indonesian.git
 ```
 2. Install dependencies
 
