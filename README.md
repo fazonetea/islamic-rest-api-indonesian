@@ -9,6 +9,8 @@
 # Description
 Islamic API adalah sebuah API yg menampilkan data2 islami, seperti : Doa2 Tahlil, Asmaul Husna, DLL
 
+Note : Semoga Bisa Menjadi Amal Jariyah Bagi Yg Membagikannya, Barakallah :)
+
 
 | Description | Endpoint | 
 |------------ | ---------|
