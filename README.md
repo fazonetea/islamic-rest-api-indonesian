@@ -24,7 +24,7 @@ Note : Semoga Bisa Menjadi Amal Jariyah Bagi Yg Membagikannya, Barakallah :)
 | All Bacaan Shalat | https://islamic-api-zhirrr.vercel.app/api/bacaanshalat | 
 
 ### Special Note
-Sekarang, Islamic Api V2 Udh Ada Loh, Lebih Lengkap Lagi ! , Langsung Menuju Ke TKP Yakkk(https://github.com/Zhirrr/islamic-rest-api-indonesian-v2)
+Sekarang, Islamic Api V2 Udh Ada Loh, Lebih Lengkap Lagi ! , Langsung Menuju Ke TKP Yakkk https://github.com/Zhirrr/islamic-rest-api-indonesian-v2
 
 # Installation
 Jika Anda ingin menambahkan proyek ini di komputer Anda sendiri, Anda dapat menginstal proyek ini dengan mengikuti langkah di bawah ini :
